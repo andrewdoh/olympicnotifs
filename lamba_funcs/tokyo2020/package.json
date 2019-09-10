@@ -1,0 +1,17 @@
+{
+  "name": "tokyo2020",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "aws-sdk": "^2.512.0",
+    "jsdom": "^15.1.1",
+    "request-promise-native": "^1.0.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
